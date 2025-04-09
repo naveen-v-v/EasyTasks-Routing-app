@@ -8,11 +8,11 @@ Angular, HTML, CSS, Typescript
 
 #### Home Screen
 
-> <img src="https://github.com/naveen-v-v/Easytasks-web-app/blob/main/public/output_homescreen.png?raw=true" alt="logo"/>
+> <img src="https://github.com/naveen-v-v/EasyTasks-Routing-app/blob/main/public/output1.png?raw=true" alt="logo"/>
 
 #### Add Task Pop-up
 
-> <img src="https://github.com/naveen-v-v/Easytasks-web-app/blob/main/public/output_add_task.png?raw=true" alt="logo"/>
+> <img src="https://github.com/naveen-v-v/EasyTasks-Routing-app/blob/main/public/output2.png?raw=true" alt="logo"/>
 
 ### Concepts:
 
