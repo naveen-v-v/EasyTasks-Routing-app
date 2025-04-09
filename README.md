@@ -17,7 +17,7 @@ Angular, HTML, CSS, Typescript
 ### Concepts:
 
 - Angular routes
-
+- Build and Deployment
 - Signals (supported since angular 16)
   A signal is an object that stores any value, when this value is changed angular is able to update that part that needs to be updated, like useState hooks in reactjs
 - Directives are used to enhance elements. (useful for two way binding)
